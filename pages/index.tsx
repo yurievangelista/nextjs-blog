@@ -26,6 +26,7 @@ const Home = ({ allPostsData }: Props) => {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hi, I&apos;m Yuri. I&apos;m a frontend dev learning NextJS.</p>
+        <p>And this is a test branch!</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
